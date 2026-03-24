@@ -1,0 +1,29 @@
+# Environment variables
+../.env
+
+.env
+Fold
+
+# Private keys
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+*.parquet
+*.csv
+*.xlsx
+
+# Virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
